@@ -1,4 +1,4 @@
-# 📞 Call Center Data Analysis Dashboard – Power BI
+# 📞 Call Centre Data Analysis Dashboard – Power BI
 
 This project is a Power BI dashboard designed to analyze and visualize call center performance metrics such as total calls, call duration, response time, sentiment, and channel distribution across various regions, cities, and states.
 
